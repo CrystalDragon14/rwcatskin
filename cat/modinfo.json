@@ -1,0 +1,12 @@
+{
+	"id": "crystal.cats",
+	"name": "Cat skin",
+	"version": "1.0.0",
+	"hide_version": false,
+	"authors": "CrystalDragon",
+	"description": "De-slugs your cat<LINE>(DMS skin mod)",
+	"requirements": ["dressmyslugcat"],
+	"requirements_names": ["Dress My Slugcat"],
+	"checksum_override_version": false,
+	"tags": ["Cosmetics"]
+}
